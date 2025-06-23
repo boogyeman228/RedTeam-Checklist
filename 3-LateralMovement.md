@@ -1,4 +1,5 @@
 # Lateral Movement
+### Goal: To spread across the network and compromise other machines or domain accounts
 
 ## Techniques:
 - Pass-the-Hash / Pass-the-Ticket
