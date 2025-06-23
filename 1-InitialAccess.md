@@ -1,4 +1,5 @@
 # 🔓 Initial Access
+###  Goal: Gain the first foothold into the target network by compromising a user, system, or exposed service.
 
 ## Techniques:
 - Phishing (macro, link)
