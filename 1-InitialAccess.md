@@ -14,8 +14,8 @@
 - `Nishang`
 
 ## Noise level:
-- Phishing: 🔇 Quiet (если без AV детекта)
-- Responder: 🔊 Loud (спам в сети)
+- Phishing: 🔇 Quiet (if without AV detect)
+- Responder: 🔊 Loud (spam at network)
 - Public Exploit: ⚠️ Medium-High
 
 ## Notes:
