@@ -26,12 +26,12 @@ Each phase includes:
 ---
 
 ## 📚 Phases
-- [Reconnaissance](./1-Reconnaissance.md)
-- [Initial Access](./2-InitialAccess.md)
-- [Privilege Escalation](./3-PrivilegeEscalation.md)
-- [Lateral Movement](./4-LateralMovement.md)
-- [Data Exfiltration](./5-DataExfiltration.md)
-- [Persistence](./6-Persistence.md)
+- [Reconnaissance](./0-Reconnaissance.md)
+- [Initial Access](./1-InitialAccess.md)
+- [Privilege Escalation](./2-PrivilegeEscalation.md)
+- [Lateral Movement](./3-LateralMovement.md)
+- [Data Exfiltration](./4-DataExfiltration.md)
+- [Persistence](./5-Persistence.md)
 
 See also:
 - [Tools Index](./TOOLS.md)
