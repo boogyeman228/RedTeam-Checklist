@@ -2,13 +2,13 @@
 Goal: To increase privileges from a regular user to an administrator
 
 ## Techniques:
-SUID/SGID binary abuse (find / -perm -4000)
-Kernel exploits (e.g. DirtyCow, DirtyPipe, PrintNightmare)
-Misconfigured sudo permissions (sudo -l)
-Exploiting writable services / timers / cron jobs
-DLL hijacking (Windows)
-Password reuse / token impersonation (mimikatz, Rubeus)
-Insecure PATH environment variable manipulation
+- SUID/SGID binary abuse (find / -perm -4000)
+- Kernel exploits (e.g. DirtyCow, DirtyPipe, PrintNightmare)
+- Misconfigured sudo permissions (sudo -l)
+- Exploiting writable services / timers / cron jobs
+- DLL hijacking (Windows)
+- Password reuse / token impersonation (mimikatz, Rubeus)
+- Insecure PATH environment variable manipulation
 
 ## Tools:
 - `linPEAS / winPEAS`
@@ -20,9 +20,9 @@ Insecure PATH environment variable manipulation
 - `Rubeus`
 
 ## Noise level:
-Enumeration tools: 🔇 Silent
-Exploits / LSASS dump: 🔊 Loud
-Sudo or SUID abuse: ⚠️ Medium
+- Enumeration tools: 🔇 Silent
+- Exploits / LSASS dump: 🔊 Loud
+- Sudo or SUID abuse: ⚠️ Medium
 
 # Notes:
 - Always run enumeration tools first.
