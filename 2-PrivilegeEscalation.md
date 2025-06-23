@@ -1,4 +1,4 @@
-# Privilege Escalation
+# 🔧 Privilege Escalation
 ### Goal: To increase privileges from a regular user to an administrator
 
 ## Techniques:
