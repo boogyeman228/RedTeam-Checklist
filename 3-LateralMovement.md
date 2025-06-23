@@ -10,13 +10,13 @@
 - Kerberoasting / delegation abuse
 
 ## Tools:
-- CrackMapExec
-- evil-winrm
-- Impacket toolkit
-- Rubeus
-- BloodHound
-- SharpHound
-- PSExec
+- `CrackMapExec`
+- `evil-winrm`
+- `Impacket toolkit`
+- `Rubeus`
+- `BloodHound`
+- `SharpHound`
+- `PSExec`
 
 ## Noise level:
 - PsExec, RDP, WMI: 🔊 Loud
