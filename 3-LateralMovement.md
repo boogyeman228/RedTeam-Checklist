@@ -1,4 +1,4 @@
-# Lateral Movement
+# 📡 Lateral Movement
 ### Goal: To spread across the network and compromise other machines or domain accounts
 
 ## Techniques:
