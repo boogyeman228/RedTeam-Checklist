@@ -24,7 +24,7 @@ Enumeration tools: 🔇 Silent
 Exploits / LSASS dump: 🔊 Loud
 Sudo or SUID abuse: ⚠️ Medium
 
-#Notes:
-Always run enumeration tools first.
-Kernel exploits may crash the system—use as last resort.
-Look for writable scripts in cron, systemd, or user-controlled binaries.
+# Notes:
+- Always run enumeration tools first.
+- Kernel exploits may crash the system—use as last resort.
+- Look for writable scripts in cron, systemd, or user-controlled binaries.
