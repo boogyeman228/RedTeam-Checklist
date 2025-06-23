@@ -1,5 +1,5 @@
 # Privilege Escalation
-Goal: To increase privileges from a regular user to an administrator
+### Goal: To increase privileges from a regular user to an administrator
 
 ## Techniques:
 - SUID/SGID binary abuse (find / -perm -4000)
