@@ -26,7 +26,7 @@ Each phase includes:
 ---
 
 ## 📚 Phases
-- [Preparation](./Preparation.md)
+- [Preparation](./0-Preparation.md)
 - [Reconnaissance](./1-Reconnaissance.md)
 - [Initial Access](./2-InitialAccess.md)
 - [Privilege Escalation](./3-PrivilegeEscalation.md)
