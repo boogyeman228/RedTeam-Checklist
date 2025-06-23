@@ -11,13 +11,13 @@ Password reuse / token impersonation (mimikatz, Rubeus)
 Insecure PATH environment variable manipulation
 
 ## Tools:
-linPEAS / winPEAS
-sudo -l
-GTFOBins
-linux-exploit-suggester.sh
-PowerUp.ps1
-mimikatz
-Rubeus
+- `linPEAS / winPEAS`
+- `sudo -l`
+- `GTFOBins`
+- `linux-exploit-suggester.sh`
+- `PowerUp.ps1`
+- `mimikatz`
+- `Rubeus`
 
 ## Noise level:
 Enumeration tools: 🔇 Silent
